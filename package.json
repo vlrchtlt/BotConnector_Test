@@ -1,0 +1,22 @@
+{
+  "name": "botconnector_test",
+  "version": "1.0.0",
+  "description": "tets",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "BotConnector_Test"
+  },
+  "keywords": [
+    "botconnector"
+  ],
+  "author": "vlrchtlt",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^1.0.1",
+    "restify": "^4.1.1"
+  }
+}
